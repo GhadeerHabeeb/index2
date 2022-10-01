@@ -102,7 +102,7 @@ nav
 }
 .right-sidebar
 {
-    background: #cbdffa;
+    
     flex-basis: 25%;
     position: sticky;
     top: 70px;
